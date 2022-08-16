@@ -11,5 +11,5 @@ Start File KHOI DONG BOT.bat\n
 # On Linux:
 Use Command 'node .'
 # Key Start Bot
-Import In Config.json To Start Bot No Error
+Enter In Config.json To Start Bot No Error
 # AQNE-W85O-JO5L-4YZQ
