@@ -1,6 +1,5 @@
 # DDoS-Bot-Client
 Client Of DDoS-Bot
-Use NodeJS And Perl
 # Warning
 Pls Stop Antivirus software If Not Will Have Error
 # Install 
